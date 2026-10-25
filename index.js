@@ -5,4 +5,7 @@ const dob = '05/03/2006'
 
 function newFeatureAdd(){
     console.log('This is a new Feature')
+        console.log('This is a new Feature1')
+
+
 }
