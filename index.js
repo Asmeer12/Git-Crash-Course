@@ -7,6 +7,8 @@ function newFeatureAdd(){
     console.log('This is a new Feature')
         console.log('This is a new Feature1')
         console.log('This is a new Feature2')
+                console.log('This is a new Feature3')
+
 
 
 
